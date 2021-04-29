@@ -61,7 +61,7 @@ public class NewMain {
             
         }
         
-        results = results1+" "+results2;
+        results = results1+" , "+results2;
         
         
         return results;
